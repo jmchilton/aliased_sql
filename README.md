@@ -10,8 +10,10 @@ the same table.
 
 I make no pretense that building up SQL expressions this way is a good
 idea and it certainly is not a very Railsy way of doing things. But
-if, like myself, you are a weak Rails programmer, I hope you find this
-useful in someway.
+for weak rails developers like myself, this gem adds the ability to
+build an SQL expression that specifies an alias in the `FROM` clause
+and references the table via this throughout the rest of the
+expression.
 
 Install
 -------
