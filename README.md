@@ -15,5 +15,5 @@ Usage
 
 Simply `require 'aliased_sql'` and then use the `to_aliased_sql` method. See the [spec][spec] for more details.
 
-[spec]: http://github.com/jmchilton/aliased_sql/spec/aliased_sql_spec.rb
+[spec]: http://github.com/jmchilton/aliased_sql/tree/master/spec/lib/aliased_sql_spec.rb
 
